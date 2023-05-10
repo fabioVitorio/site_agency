@@ -4,7 +4,7 @@
 >✅SASS
 
 <div>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioVitorio&repo=jogo_da_velha"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioVitorio&repo=site_agency"/>
   <a href="https://github.com/fabioVitorio">
 </div>
 

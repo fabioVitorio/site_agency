@@ -1,4 +1,4 @@
-### <p align='center'> ![logoMental](https://github.com/fabioVitorio/pag_bootstrap/assets/109548564/acbc2aca-4aa3-42a4-a6d4-7a3ce01cf09e) </p>
+# <p align='center'> Agency 🧠 </p>
 <br>
 <p align='center'> Landing Page of the Agency website for learning and improving the Sass language.<br></p>
 
